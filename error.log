@@ -1,0 +1,6 @@
+tar: Suppression de « / » au début des noms des membres
+tar: /home/ecodair/.dbus : open impossible: Permission non accordée
+tar: /home/ecodair/.gvfs : open impossible: Permission non accordée
+tar: /home/ecodair/scripts/sauvegarde.tar.gz : fichier modifié pendant sa lecture
+tar: /home/ecodair/.cache/dconf : open impossible: Permission non accordée
+tar: Arrêt avec code d'échec à cause des erreurs précédentes
